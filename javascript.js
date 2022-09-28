@@ -1,7 +1,6 @@
-var words = ['Rock', 'Paper', 'Scissors',];
-function getComputerChoice(arr) {
-    return arr[Math.floor(Math.random() * arr.length)];
-}
+let items = ['Rock', 'Paper', 'Scissors'];
+let getComputerChoice = items[Math.floor(Math.random() * items.length)]
+console.log(UserChoice)
 
-for(var x=0; x<20; x++)
-    console.log(getComputerChoice(words));
+
+
