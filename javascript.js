@@ -60,6 +60,6 @@ function game() {
 
 console.log(game())  
 
-console.log('TEST');
+console.log('TEST2');
   
 
